@@ -1,4 +1,4 @@
-# chrome-extension-popup
+# popup
 
 Just following a tutorial on chrome extensions
 
@@ -15,8 +15,3 @@ This project can not be copied and/or distributed without the express permission
 Unauthorized copying of this file, via any medium is strictly prohibited 
 
 Proprietary and confidential
- 
-## Acknowledgments
-
-* TeamManCave Adminstrators
-* TeamManCave Players
